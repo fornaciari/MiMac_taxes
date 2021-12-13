@@ -17,4 +17,4 @@ For reproducibility:
 4. Run exp210131.py!
 5. For a nice results' visualization, run printcsv.py -dir exp210131
 
-Enjoy!
+For any question, please contact me at fornaciari@unibocconi.it
