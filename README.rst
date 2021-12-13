@@ -7,7 +7,7 @@ pdf at https://aclanthology.org/2021.findings-acl.301.pdf
 
 logs.zip contains the logs of the experiments described in the paper.
 
-The fold jupyter_xsl_preproc_210130170501 contains the data set, in xlsx format.
+The fold ``jupyter_xsl_preproc_210130170501`` contains the data set, in xlsx format.
 
 For reproducibility:
 
